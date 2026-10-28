@@ -1,0 +1,10 @@
+*.mp4
+!media/demo_full.mp4
+*.mov
+*.avi
+*.mkv
+~$*
+*.tmp
+*.bak
+__pycache__/
+.vscode/
